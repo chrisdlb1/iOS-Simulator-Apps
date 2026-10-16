@@ -8,7 +8,7 @@ or a built-in app of the simulator (`"builtin"`). The name, icon, description an
 
 ## Submit an app
 
-[Open a submission](../../issues/new?template=submit-app.yml). Your repository needs an `iphone-app.json` file and a published release.
+[Open a submission](https://github.com/chrisdlb1/iOS-Simulator-Apps/issues/new?template=submit-app.yml). Your repository needs an `iphone-app.json` file and a published release.
 Instructions are in the simulator: Settings > Store > Instructions.
 
 Accepted apps are added to `apps.json`.

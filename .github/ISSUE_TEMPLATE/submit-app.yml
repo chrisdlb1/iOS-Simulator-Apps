@@ -1,0 +1,27 @@
+name: Submit an app
+description: Submit an app for review to be added to the App Store list
+title: "Submit: "
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository
+      description: The address of the repository, such as https://github.com/owner/name
+      placeholder: https://github.com/
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The repository has an iphone-app.json file in its root
+          required: true
+        - label: The repository has a published release
+          required: true
+        - label: The app is a single page of HTML, CSS and JavaScript
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

@@ -1,0 +1,13 @@
+{
+    "apps": [
+        {
+            "builtin": "home",
+            "name": "Home Assistant",
+            "developer": "Christopher Bennett",
+            "icon": "images/app-icons/Home.png",
+            "description": "Control your Home Assistant smart home from the Simulator: lights, switches, climate, sensors and notifications.",
+            "category": "Utilities",
+            "featured": true
+        }
+    ]
+}

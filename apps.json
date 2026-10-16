@@ -7,6 +7,12 @@
             "icon": "images/app-icons/Home.png",
             "description": "Control your Home Assistant smart home from the Simulator: lights, switches, climate, sensors and notifications.",
             "category": "Utilities",
+            "screenshots": [
+                "images/app-store/home-assistant/1.png",
+                "images/app-store/home-assistant/2.png",
+                "images/app-store/home-assistant/3.png",
+                "images/app-store/home-assistant/4.png"
+            ],
             "featured": true
         }
     ]

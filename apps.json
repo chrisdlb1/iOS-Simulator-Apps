@@ -16,6 +16,29 @@
                 "images/app-store/home-assistant/5.png"
             ],
             "featured": true
+        },
+        {
+            "builtin": "podcasts",
+            "name": "Apple Podcasts",
+            "developer": "Apple",
+            "company": "Apple Pty Limited",
+            "repo": "chrisdlb1/iOS-Simulator",
+            "icon": "images/app-icons/Podcasts.png",
+            "description": "Discover podcasts that entertain, inform and inspire. Get recommendations curated by Apple Podcasts editors and dive deep into what interests you most. Seamlessly sync your shows across Apple devices.\n\nFeatures:\n\n• Listen to and watch podcasts, download them and play them offline.\n• Explore new shows with personalised recommendations.\n• Find trending shows and episodes by category with Top Charts.\n• Find the best of what's new and popular in podcasting with curated collections from Apple editors.\n• Follow and save your favourite shows to your library.\n• Use playback controls to build and manage your queue, control playback speed and set sleep timers.\n• Hear voices in episodes more clearly with Enhance Dialogue.\n• Add your favourite categories to find shows that map to your unique tastes.\n• Access subscriber-only content, from the biggest names to the top independents.\n• Connect subscriptions to access shows from Apple Music, Apple News and other top apps.\n• Read along with a transcript as your episode plays.\n• Share a specific moment in an episode from the transcript.\n• Get new episode notifications from shows you follow.\n• Pick up where you left off with seamless syncing across your Apple devices.\n• Listen on the go with CarPlay and Apple Watch.\n• Use customisable widgets to listen with just one tap.\n\nAvailability and features vary by country and region, plan or device.\nhttps://support.apple.com/HT204411\n\nApple Podcasts app Terms and Conditions can be found at apple.com/au/legal/internet-services/itunes/",
+            "category": "Entertainment",
+            "rating": 5,
+            "ratings": 17267,
+            "updated": "14 September 2026",
+            "version": "4.6",
+            "size": "11.5 MB",
+            "ageRating": "Rated 12+ for the following:\nInfrequent/Mild Medical/Treatment Information\nInfrequent/Mild Profanity or Crude Humour\nInfrequent/Mild Cartoon or Fantasy Violence\nInfrequent/Mild Mature/Suggestive Themes\nInfrequent/Mild Realistic Violence\nInfrequent/Mild Horror/Fear Themes\nInfrequent/Mild Alcohol, Tobacco or Drug Use or References\nInfrequent/Mild Sexual Content and Nudity",
+            "screenshots": [
+                "images/app-store/podcasts/1.png",
+                "images/app-store/podcasts/2.png",
+                "images/app-store/podcasts/3.png",
+                "images/app-store/podcasts/4.png"
+            ],
+            "featured": true
         }
     ]
 }

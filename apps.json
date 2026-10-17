@@ -4,6 +4,7 @@
             "builtin": "home",
             "name": "Home Assistant",
             "developer": "Christopher Bennett",
+            "repo": "chrisdlb1/iOS-Simulator",
             "icon": "images/app-icons/Home.png",
             "description": "Control your Home Assistant smart home from the Simulator: lights, switches, climate, sensors and notifications.",
             "category": "Utilities",
@@ -11,7 +12,8 @@
                 "images/app-store/home-assistant/1.png",
                 "images/app-store/home-assistant/2.png",
                 "images/app-store/home-assistant/3.png",
-                "images/app-store/home-assistant/4.png"
+                "images/app-store/home-assistant/4.png",
+                "images/app-store/home-assistant/5.png"
             ],
             "featured": true
         }

@@ -41,6 +41,40 @@
                 "images/app-store/podcasts/4.png"
             ],
             "featured": true
+        },
+        {
+            "builtin": "camera",
+            "name": "Camera",
+            "developer": "Apple",
+            "company": "Apple Pty Limited",
+            "repo": "chrisdlb1/iOS-Simulator",
+            "icon": "images/app-icons/Camera.png",
+            "description": "Capture the moment. Camera lets you take photos and record video straight from your device, with everything you shoot saved to your Photos library.\n\nFeatures:\n\n• Take photos and record video with one tap.\n• Switch between the front and back cameras.\n• Use the flash when the light is low.\n• Tap the screen to focus on your subject.\n• Review your latest shot from the thumbnail and jump straight to Photos.\n• Pinch to zoom in on distant subjects.\n\nAvailability and features vary by device.",
+            "category": "Photo & Video",
+            "rating": 4,
+            "ratings": 3482,
+            "updated": "18 October 2026",
+            "version": "1.0",
+            "size": "2.1 MB",
+            "ageRating": "Rated 4+",
+            "featured": true
+        },
+        {
+            "builtin": "reminders",
+            "name": "Reminders",
+            "developer": "Apple",
+            "company": "Apple Pty Limited",
+            "repo": "chrisdlb1/iOS-Simulator",
+            "icon": "images/app-icons/Reminders.png",
+            "description": "Never forget what matters. Reminders keeps all your to-dos in one place, so you can plan your day and get things done.\n\nFeatures:\n\n• Create reminders in seconds and group them into lists.\n• Set a date and time to be reminded at the right moment.\n• Tick off reminders as you complete them.\n• Keep separate lists for work, home, shopping and more.\n• See what is due today at a glance.\n• Get a notification when a reminder is due.\n\nAvailability and features vary by device.",
+            "category": "Productivity",
+            "rating": 4,
+            "ratings": 2915,
+            "updated": "18 October 2026",
+            "version": "1.0",
+            "size": "1.4 MB",
+            "ageRating": "Rated 4+",
+            "featured": true
         }
     ]
 }

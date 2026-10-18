@@ -75,6 +75,29 @@
             "size": "1.4 MB",
             "ageRating": "Rated 4+",
             "featured": true
+        },
+        {
+            "builtin": "messages",
+            "name": "Messages",
+            "developer": "Apple",
+            "company": "Apple Pty Limited",
+            "repo": "chrisdlb1/iOS-Simulator",
+            "icon": "images/app-icons/iMessage.png",
+            "description": "Stay in touch with the people who matter. Messages lets you chat with friends over your Matrix account, with the look and feel of the original.\n\nFeatures:\n\n• Sign in with your Matrix account, including Google and single sign-on.\n• See all your conversations in one list, newest first, with a blue dot for anything unread.\n• Send and receive messages in classic speech bubbles, with sounds and animations.\n• See when the other person is typing, and when your message has been read.\n• Start a new conversation from a contact or by typing an address.\n• Add people you chat with to your Contacts.\n• Get a notification when a message arrives, and reply right from it.\n• Use Edit to delete conversations or individual messages from this device.\n• Try it without an account with Test Mode in Settings.\n\nAvailability and features vary by device.",
+            "category": "Social Networking",
+            "rating": 4,
+            "ratings": 5126,
+            "updated": "18 October 2026",
+            "version": "1.0",
+            "size": "3.2 MB",
+            "ageRating": "Rated 4+",
+            "screenshots": [
+                "images/app-store/messages/1.png",
+                "images/app-store/messages/2.png",
+                "images/app-store/messages/3.png",
+                "images/app-store/messages/4.png"
+            ],
+            "featured": true
         }
     ]
 }

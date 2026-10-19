@@ -87,8 +87,8 @@
             "category": "Social Networking",
             "rating": 4,
             "ratings": 5126,
-            "updated": "19 October 2026",
-            "version": "1.0.13",
+            "updated": "20 October 2026",
+            "version": "1.0.14",
             "size": "3.2 MB",
             "ageRating": "Rated 4+",
             "screenshots": [
@@ -96,9 +96,7 @@
                 "images/app-store/messages/2.png",
                 "images/app-store/messages/3.png",
                 "images/app-store/messages/4.png",
-                "images/app-store/messages/5.png",
-                "images/app-store/messages/6.png",
-                "images/app-store/messages/7.png"
+                "images/app-store/messages/5.png"
             ],
             "featured": true
         }
